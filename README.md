@@ -1,2 +1,2 @@
 # Natural_languge_processing
-CMSI-5370
+NLP coursework at Loyola Marymount University (CMSI-5370)
